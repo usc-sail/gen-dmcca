@@ -53,4 +53,4 @@ python train_speaker_embeddings_open_set.py
 python test_speaker_embeddings_open_set.py
 ```
 
-```
+This last script should generate SVM predictions, as well as t-SNE embeddings for the shared representations learnt
